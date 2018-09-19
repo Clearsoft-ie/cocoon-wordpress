@@ -1,0 +1,59 @@
+    /*
+    Theme Name: Cocoon Spa
+    Theme URI: https://www.clearsoft.ie/
+    Author: ClearSoft
+    Author URI: https://www.clearsoft.ie/
+    Description: Custom theme for Cocoon Spa
+    Version: 1.0
+    Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+    */
+
+
+.search-input-group {
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    width: 50%;
+    margin-top: 55px;
+    margin-left: 32px;
+}
+
+.search-page-title {
+	font-size: 36px;
+    margin: 0 0 1px 50px;
+    line-height: 1;
+}
+
+.st {
+    line-height: 1.4;
+    word-wrap: break-word;
+    font-size: medium;
+    font-family: arial,sans-serif;
+}
+
+.search-page-results {
+    margin: 0 0 44px 70px;
+}
+
+.search-results-link {
+    font-size: 24px;
+    letter-spacing: normal;
+    margin: 0 0 5px 70px;
+}
+
+.resultsCount {
+	margin: 0 0 40px 50px;
+    color: #808080;
+}
+
+.search-results-link a:hover { 
+    text-decoration: underline;
+}
+
+.container {
+    padding-top: 30px;
+}
+
+h1, h2, h3 {
+ color: #6c1f71
+}
