@@ -58,17 +58,17 @@
                                     <div class="ml-50 clearfix">
 
                                         <p class="mb-10">Follow Us</p>
-                                        <a href="#" class="social-icon social-icon-sm social-icon-transparent social-facebook float-left" data-toggle="tooltip" data-placement="top" title="Facebook">
+                                        <a href="#https://www.facebook.com/cocoonspaamberspringshotel/" class="social-icon social-icon-sm social-icon-transparent social-facebook float-left" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank">
                                             <i class="icon-facebook"></i>
                                             <i class="icon-facebook"></i>
                                         </a>
-
+                                        <!--
                                         <a href="#" class="social-icon social-icon-sm social-icon-transparent social-twitter float-left" data-toggle="tooltip" data-placement="top" title="Twitter">
                                             <i class="icon-twitter"></i>
                                             <i class="icon-twitter"></i>
                                         </a>
-
-                                        <a href="#" class="social-icon social-icon-sm social-icon-transparent social-instagram float-left" data-toggle="tooltip" data-placement="top" title="Instagram">
+                                        -->
+                                        <a href="https://www.instagram.com/cocoonspa_/?hl=en" class="social-icon social-icon-sm social-icon-transparent social-instagram float-left" data-toggle="tooltip" data-placement="top" title="Instagram" target="_blank">
                                             <i class="icon-instagram"></i>
                                             <i class="icon-instagram"></i>
                                         </a>
