@@ -75,22 +75,6 @@
 
                                     </div>
                                     <!-- /Social Icons -->
-                                    <!-- Hotel Logos -->
-                                    <div class="mt-20">
-                                        <div class="row">
-                                            <div class="col-md-6">
-                                                <a href="http://www.ambersprings.ie/" target="_blank">
-                                                    <img src="<?php echo get_template_directory_uri() ;?>/assets/images/logos/amber-springs.png" class="img-fluid" />
-                                                </a>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <a href="https://www.ashdownparkhotel.com" target="_blank">
-                                                    <img src="<?php echo get_template_directory_uri() ;?>/assets/images/logos/ashdown-park.png" class="img-fluid" />
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- /  Hotel Logos -->
                                 </div>
 
                             </div>
@@ -106,7 +90,22 @@
                             Saturday - 10am to 7pm<br />
                             Sunday - 10am to 6pm<br />
 
-
+                            <!-- Hotel Logos -->
+                            <div class="mt-20">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                    <a href="https://www.ashdownparkhotel.com" target="_blank">
+                                            <img src="<?php echo get_template_directory_uri() ;?>/assets/images/logos/ashdown-park.png" class="img-fluid" />
+                                        </a>
+                                    </div>
+                                    <div class="col-md-6">
+                                    <a href="http://www.ambersprings.ie/" target="_blank">
+                                            <img src="<?php echo get_template_directory_uri() ;?>/assets/images/logos/amber-springs.png" class="img-fluid" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /  Hotel Logos -->
                         </div>
 
                     </div>
