@@ -58,7 +58,7 @@
                                     <div class="ml-50 clearfix">
 
                                         <p class="mb-10">Follow Us</p>
-                                        <a href="#https://www.facebook.com/cocoonspaamberspringshotel/" class="social-icon social-icon-sm social-icon-transparent social-facebook float-left" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank">
+                                        <a href="https://www.facebook.com/cocoonspaamberspringshotel/" class="social-icon social-icon-sm social-icon-transparent social-facebook float-left" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank">
                                             <i class="icon-facebook"></i>
                                             <i class="icon-facebook"></i>
                                         </a>
