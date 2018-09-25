@@ -15,6 +15,7 @@
 ?>
 
 <!DOCTYPE html>
+<html dir="ltr" lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<title>Cocoon Spa &amp; Welness | Gorey Co. Wexford</title>
