@@ -30,7 +30,7 @@
                             <img class="footer-logo footer-2" src="<?php echo get_template_directory_uri() ;?>/assets/images/logo-footer.png" alt="" />
 
                             <!-- Small Description -->
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus nulla, commodo a sodales sed, dignissim pretium nunc. Nam et lacus neque.</p>
+                            <p>Wellness is not a luxury, it’s a necessity</p>
 
                             <hr />
 
