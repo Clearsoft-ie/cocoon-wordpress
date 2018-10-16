@@ -41,13 +41,19 @@
                                     <p class="mb-10">Subscribe to Our <strong>Newsletter</strong></p>
 
                                     <form method="post" action="<?php echo get_home_url() ?>?na=s" onsubmit="return newsletter_check(this)">
-                                        <div class="input-group">
-                                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                            <input type="email" id="email" name="ne" class="form-control" placeholder="Enter your Email" required="required">
-                                            <span class="input-group-btn">
-                                                <button class="btn btn-success" type="submit">Subscribe</button>
-                                            </span>
+                                    <div class="input-group">
+                                            <span class="input-group-addon" style="width:50px"><i class="fa fa-user"></i></span>
+                                            <input type="text" id="nameTextBox" name="nn" class="form-control" placeholder="Enter your Name" required="required">
                                         </div>
+                                        <div class="input-group">
+                                            <span class="input-group-addon" style="width:50px"><i class="fa fa-envelope"></i></span>
+                                            <input type="email" id="emailTextBox" name="ne" class="form-control" placeholder="Enter your Email" required="required">
+                                        </div>
+                                        <div class="input-group">
+                                            <span class="input-group-addon" style="width:50px"><i class="fa fa-map-marker"></i></span>
+                                            <input type="textaddressTextBox" id="email" name="np1" class="form-control" placeholder="Enter your Address" required="required">
+                                        </div> 
+                                        <button type="submit" class="btn btn-success btn-lg btn-block">Subscribe</button>                                       
                                     </form>
                                     <!-- /Newsletter Form -->
                                 </div>
